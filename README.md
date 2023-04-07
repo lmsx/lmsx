@@ -1,9 +1,7 @@
-- 👋 Hi, lixia
-- 👀 I’m interested in java
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hi 大家好 这是黎夏 今年23岁的计算机热爱者 目前还在艰难前行 不过未来可期
 
+
+这里是黎夏的oc
 <!---
 Nice to meet you, bro.
 --->
